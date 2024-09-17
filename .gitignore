@@ -1,0 +1,6 @@
+backup
+.lh
+__pycache__
+cesky-jazyk.cz.cache
+GPT_model.pth
+vocab.json
